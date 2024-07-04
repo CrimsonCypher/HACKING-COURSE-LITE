@@ -1,14 +1,14 @@
 # HACKING-COURSE
 
-##Ethical Hacking Course
-###Introduction
+## Ethical Hacking Course
+### Introduction
 
     Definition of Ethical Hacking
     Importance of Ethical Hacking
     Legal and Ethical Considerations
     Skills and Knowledge Required
 
-###Section 1: Fundamentals of Cybersecurity
+### Section 1: Fundamentals of Cybersecurity
 
     Basic Concepts
         CIA Triad (Confidentiality, Integrity, Availability)
@@ -21,7 +21,7 @@
         Common Protocols (HTTP, HTTPS, FTP, DNS, etc.)
         Network Devices (Routers, Switches, Firewalls)
 
-###Section 2: Reconnaissance and Information Gathering
+### Section 2: Reconnaissance and Information Gathering
 
     Types of Reconnaissance
         Passive Reconnaissance
