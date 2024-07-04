@@ -3,42 +3,42 @@
 ## Ethical Hacking Course
 ### Introduction
 
-    Definition of Ethical Hacking
-    Importance of Ethical Hacking
-    Legal and Ethical Considerations
-    Skills and Knowledge Required
+- Definition of Ethical Hacking
+- Importance of Ethical Hacking
+- Legal and Ethical Considerations
+- Skills and Knowledge Required
 
 ### Section 1: Fundamentals of Cybersecurity
 
-    Basic Concepts
-        CIA Triad (Confidentiality, Integrity, Availability)
-        Types of Threats and Attacks
-        Vulnerability, Exploit, and Threat Models
+- ** Basic Concepts **
+        - CIA Triad (Confidentiality, Integrity, Availability)
+        - Types of Threats and Attacks
+        - Vulnerability, Exploit, and Threat Models
 
-    Network Fundamentals
-        OSI and TCP/IP Models
-        IP Addressing and Subnetting
-        Common Protocols (HTTP, HTTPS, FTP, DNS, etc.)
-        Network Devices (Routers, Switches, Firewalls)
+    - ** Network Fundamentals **
+        - OSI and TCP/IP Models
+        - IP Addressing and Subnetting
+        - Common Protocols (HTTP, HTTPS, FTP, DNS, etc.)
+        - Network Devices (Routers, Switches, Firewalls)
 
 ### Section 2: Reconnaissance and Information Gathering
 
-    Types of Reconnaissance
+   - Types of Reconnaissance
         Passive Reconnaissance
         Active Reconnaissance
 
-    Techniques
-        Google Dorking
-        WHOIS Lookup
-        DNS Enumeration
-        Network Scanning (Nmap)
-        Email Harvesting
+   - Techniques
+        - Google Dorking
+        - WHOIS Lookup
+        - DNS Enumeration
+        - Network Scanning (Nmap)
+        - Email Harvesting
 
-    Tools
-        Nmap: Network scanner
-        Maltego: Data mining and link analysis
-        Recon-ng: Web reconnaissance framework
-        Shodan: Search engine for Internet-connected devices
+   - Tools
+        - Nmap: Network scanner
+        - Maltego: Data mining and link analysis
+        - Recon-ng: Web reconnaissance framework
+        - Shodan: Search engine for Internet-connected devices
 
 Section 3: Scanning and Enumeration
 
