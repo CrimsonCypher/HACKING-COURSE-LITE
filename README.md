@@ -1,6 +1,7 @@
 # HACKING-COURSE
 
-## Ethical Hacking Course
+## CRIMSON RAPID GUIDE TO HACKING FUNDAMENTALS AND METHODS
+
 ### Introduction
 
 - Definition of Ethical Hacking
@@ -10,12 +11,12 @@
 
 ### Section 1: Fundamentals of Cybersecurity
 
--  Basic Concepts 
+   -  Basic Concepts 
         - CIA Triad (Confidentiality, Integrity, Availability)
         - Types of Threats and Attacks
         - Vulnerability, Exploit, and Threat Models
 
-    -  Network Fundamentals 
+   -  Network Fundamentals 
         - OSI and TCP/IP Models
         - IP Addressing and Subnetting
         - Common Protocols (HTTP, HTTPS, FTP, DNS, etc.)
