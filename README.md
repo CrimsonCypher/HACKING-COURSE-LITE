@@ -10,12 +10,12 @@
 
 ### Section 1: Fundamentals of Cybersecurity
 
-- ** Basic Concepts **
+-  Basic Concepts 
         - CIA Triad (Confidentiality, Integrity, Availability)
         - Types of Threats and Attacks
         - Vulnerability, Exploit, and Threat Models
 
-    - ** Network Fundamentals **
+    -  Network Fundamentals 
         - OSI and TCP/IP Models
         - IP Addressing and Subnetting
         - Common Protocols (HTTP, HTTPS, FTP, DNS, etc.)
@@ -42,149 +42,149 @@
 
 Section 3: Scanning and Enumeration
 
-    Network Scanning
-        Identifying Live Hosts
-        Port Scanning
-        Service Version Detection
-        OS Fingerprinting
+   - Network Scanning
+        - Identifying Live Hosts
+        - Port Scanning
+        - Service Version Detection
+        - OS Fingerprinting
 
-    Enumeration
-        SMB Enumeration
-        SNMP Enumeration
-        LDAP Enumeration
-        NFS Enumeration
+   - Enumeration
+        - SMB Enumeration
+        - SNMP Enumeration
+        - LDAP Enumeration
+        - NFS Enumeration
 
-    Tools
-        Nmap: Advanced scanning features
-        Nessus: Vulnerability scanner
-        OpenVAS: Open-source vulnerability scanner
-        Metasploit Framework: Penetration testing framework
+   - Tools
+        - Nmap: Advanced scanning features
+        - Nessus: Vulnerability scanner
+        - OpenVAS: Open-source vulnerability scanner
+        - Metasploit Framework: Penetration testing framework
 
 Section 4: Vulnerability Analysis
 
-    Identifying Vulnerabilities
-        Common Vulnerabilities and Exposures (CVE)
-        OWASP Top 10
-        Zero-Day Vulnerabilities
+   - Identifying Vulnerabilities
+        - Common Vulnerabilities and Exposures (CVE)
+        - OWASP Top 10
+        - Zero-Day Vulnerabilities
 
-    Vulnerability Databases
-        CVE Details
-        NVD (National Vulnerability Database)
-        Exploit-DB
+   - Vulnerability Databases
+        - CVE Details
+        - NVD (National Vulnerability Database)
+        - Exploit-DB
 
-    Tools
-        Nessus: Vulnerability assessment
-        OpenVAS: Open-source vulnerability scanning
-        Burp Suite: Web vulnerability scanner
-        Nikto: Web server scanner
+   - Tools
+        - Nessus: Vulnerability assessment
+        - OpenVAS: Open-source vulnerability scanning
+        - Burp Suite: Web vulnerability scanner
+        - Nikto: Web server scanner
 
 Section 5: Exploitation
 
-    Exploitation Techniques
-        Buffer Overflows
-        SQL Injection
-        Cross-Site Scripting (XSS)
-        Remote Code Execution (RCE)
+   - Exploitation Techniques
+        - Buffer Overflows
+        - SQL Injection
+        - Cross-Site Scripting (XSS)
+        - Remote Code Execution (RCE)
 
-    Privilege Escalation
-        Windows Privilege Escalation
-        Linux Privilege Escalation
+   - Privilege Escalation
+        - Windows Privilege Escalation
+        - Linux Privilege Escalation
 
-    Tools
-        Metasploit Framework: Exploitation framework
-        SQLmap: Automated SQL injection tool
-        BeEF: Browser exploitation framework
-        John the Ripper: Password cracker
+   - Tools
+        - Metasploit Framework: Exploitation framework
+        - SQLmap: Automated SQL injection tool
+        - BeEF: Browser exploitation framework
+        - John the Ripper: Password cracker
 
 Section 6: Post-Exploitation
 
-    Maintaining Access
-        Backdoors
-        Rootkits
-        Persistence Techniques
+   - Maintaining Access
+        - Backdoors
+        - Rootkits
+        - Persistence Techniques
 
-    Data Exfiltration
-        File Transfer Techniques
-        Data Encoding and Encryption
+   - Data Exfiltration
+        - File Transfer Techniques
+        - Data Encoding and Encryption
 
-    Covering Tracks
-        Log Cleaning
-        Anti-Forensics Techniques
-
-    Tools
-        Metasploit Framework: Post-exploitation modules
-        Cobalt Strike: Advanced threat emulation
-        Empire: PowerShell post-exploitation
+   - Covering Tracks
+        - Log Cleaning
+        - Anti-Forensics Techniques
+  
+   - Tools
+        - Metasploit Framework: Post-exploitation modules
+        - Cobalt Strike: Advanced threat emulation
+        - Empire: PowerShell post-exploitation
 
 Section 7: Defensive Techniques and Incident Response
 
-    Defensive Security Concepts
-        Defense in Depth
-        Security Policies
-        Risk Management
+   - Defensive Security Concepts
+        - Defense in Depth
+        - Security Policies
+        - Risk Management
 
-    Threat Detection and Monitoring
-        Intrusion Detection Systems (IDS)
-        Security Information and Event Management (SIEM)
-        Network Traffic Analysis
+   - Threat Detection and Monitoring
+        - Intrusion Detection Systems (IDS)
+        - Security Information and Event Management (SIEM)
+        - Network Traffic Analysis
 
-    Incident Response
-        Incident Response Plan
-        Digital Forensics
-        Malware Analysis
+   - Incident Response
+        - Incident Response Plan
+        - Digital Forensics
+        - Malware Analysis
 
-    Tools
-        Snort: IDS/IPS
-        Wireshark: Network protocol analyzer
-        Splunk: SIEM platform
-        Volatility: Memory forensics
+   - Tools
+        - Snort: IDS/IPS
+        - Wireshark: Network protocol analyzer
+        - Splunk: SIEM platform
+        - Volatility: Memory forensics
 
 Section 8: Specialized Areas of Ethical Hacking
 
-    Web Application Security
-        OWASP Top 10
-        Web Application Firewalls (WAF)
-        Secure Development Practices
+   - Web Application Security
+        - OWASP Top 10
+        - Web Application Firewalls (WAF)
+        - Secure Development Practices
 
-    Wireless Network Security
-        WPA/WPA2 Cracking
-        Rogue Access Points
-        Wireless Intrusion Prevention Systems (WIPS)
+   - Wireless Network Security
+        - WPA/WPA2 Cracking
+        - Rogue Access Points
+        - Wireless Intrusion Prevention Systems (WIPS)
 
-    Mobile Security
-        Android and iOS Security Models
-        Mobile App Penetration Testing
-        Mobile Device Management (MDM)
+   - Mobile Security
+        - Android and iOS Security Models
+        - Mobile App Penetration Testing
+        - Mobile Device Management (MDM)
 
-    IoT Security
-        IoT Device Vulnerabilities
-        Secure IoT Architecture
-        IoT Security Frameworks
+   - IoT Security
+        - IoT Device Vulnerabilities
+        - Secure IoT Architecture
+        - IoT Security Frameworks
 
-    Cloud Security
-        Cloud Service Models (IaaS, PaaS, SaaS)
-        Cloud Security Risks
-        Cloud Security Best Practices
+   - Cloud Security
+        - Cloud Service Models (IaaS, PaaS, SaaS)
+        - Cloud Security Risks
+        - Cloud Security Best Practices
 
 Section 9: Ethical Hacking Certifications and Career Path
 
-    Certifications
-        Certified Ethical Hacker (CEH)
-        Offensive Security Certified Professional (OSCP)
-        GIAC Penetration Tester (GPEN)
-        CompTIA PenTest+
+   - Certifications
+        - Certified Ethical Hacker (CEH)
+        - Offensive Security Certified Professional (OSCP)
+        - GIAC Penetration Tester (GPEN)
+        - CompTIA PenTest+
 
-    Building a Career
-        Building a Lab Environment
-        Continuous Learning and Development
-        Networking and Community Involvement
+   - Building a Career
+        - Building a Lab Environment
+        - Continuous Learning and Development
+        - Networking and Community Involvement
 
 Conclusion
 
-    Recap of Key Points
-    Resources for Further Learning
-    Ethical Hacking Communities and Forums
-    Final Thoughts and Encouragement
+- Recap of Key Points
+- Resources for Further Learning
+- Ethical Hacking Communities and Forums
+- Final Thoughts and Encouragement
 
 Acquiring Tools
 
